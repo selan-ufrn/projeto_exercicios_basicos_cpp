@@ -21,7 +21,7 @@ Em resumo, sua tarefa consiste em:
 3. Marcar cada uma das questões que você conseguiu resolver, na [Seção Questões Finalizadas](autor.md/#questões-finalizadas) do arquivo [`autor.md`](autor.md).
 4. Subir para o repositório (_commit_ + _push_) suas respostas, para que elas possam ser baixadas e corrigidas após o prazo final do exercício.
 
-# Compilando e Executando=+
+# Compilando e Executando
 
 Nessa seção abordamos o procedimento necessário para compilar e executar o código inicial fornecido com o exercício.
 
