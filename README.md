@@ -38,7 +38,6 @@ Para você poder compilar e executar os testes preparados para o exercício é n
 + [GNU gcc](https://gcc.gnu.org/), [clang](https://clang.llvm.org/), ou outro: compilador C++.
 + [cmake](https://cmake.org/): para gerar os arquivos _Makefiles_, que gerenciam a compilação otimizada do projeto.
 + [Python](https://www.python.org/): para executar o script de teste de comparação de saída gerada/esperada.
-+ [Catch2](https://github.com/catchorg/Catch2): biblioteca para viabilizar testes unitários. Mas não se preocupe que os arquivos necessários para usar essa biblioteca de testes já estão incluídos no projeto entregue e, portanto, você não precisa instalar nada.
 
 ## Instruções Categoria Implementação de Programa
 
