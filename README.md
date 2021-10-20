@@ -19,8 +19,9 @@ Em resumo, sua tarefa consiste em:
 1. Implementar todos as questões requisitadas na lista, incluindo seu código nos locais apropriados em cada pasta.
 2. Editar o arquivo [`autor.md`](autor.md) e adicionar suas informações pessoais na [Seção Identificação Pessoal](autor.md/#identificação-pessoal).
 3. Marcar cada uma das questões que você conseguiu resolver, na [Seção Questões Finalizadas](autor.md/#questões-finalizadas) do arquivo [`autor.md`](autor.md).
+4. Subir para o repositório (_commit_ + _push_) suas respostas, para que elas possam ser baixadas e corrigidas após o prazo final do exercício.
 
-# Compilando e Executando
+# Compilando e Executando=+
 
 Nessa seção abordamos o procedimento necessário para compilar e executar o código inicial fornecido com o exercício.
 
