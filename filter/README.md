@@ -24,7 +24,7 @@ Valor  | 6| 7| 10| 1| 7| ?| ?| ?| ?|  ?| ? |
 ``` 
 A função deve ter a seguinte assinatura:
 ```c++
-const int* filter ( const int *first , const int *last );
+int* filter ( int *first , int *last );
 ```
 
 Note que a função apenas rearranja os valores dentro do vetor e retorna o endereço logo após o último
